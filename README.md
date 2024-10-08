@@ -4,7 +4,7 @@ Instant messaging using ESP8266.
 This project aims to use an ESP8266 to function as a "server" for a website with an instant messenger.
 
 # How it works and how to use it!
-The ESP8266 creates a local Wi-Fi network. You must connect to this Wi-Fi network and access the IP address of the ESP8266 (which is static/fixed). You will find a page with the following message: "Your name" and a button to send. You should enter a name and click send.
+The ESP8266 creates a local Wi-Fi network. You must connect to this Wi-Fi network and access the IP address of the ESP8266 (which is static/fixed). You will find a page with the following message: "Seu nome" and a button to send. You should enter a name and click send.
 
 ![Print](https://github.com/Zeus-animi/chat-esp8266/blob/b189c41f32361d53457cfcb2be183be37deafe5c/Captura_de_ecra_2024-10-04_18-00-28.png)
 
