@@ -15,8 +15,6 @@ There are no user limits. However, after the chat messages reach 15 KB of storag
 
 ![Print](https://github.com/Zeus-animi/chat-esp8266/blob/9a3c6dcb538c21b9b71d56795f09db61acbfcae1/IMG_20241004_223703.png)
 
-[Project Screenshot
-
 # Modifications and forks of the code are welcome!
 
 # Português chat-esp8266
